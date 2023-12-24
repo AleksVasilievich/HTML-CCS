@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header__link {
+    color: rgb(71, 206, 13);
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.header__link:hover {
+    color: rgb(111, 82, 68);
+}
+
+.title {
+    color: #222222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
