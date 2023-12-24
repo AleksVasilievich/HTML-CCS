@@ -23,3 +23,20 @@ a {
     line-height: 36px;
     font-weight: bold;
 }
+
+.text {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px; 
+    color: #7D7987;  
+}
+
+.heads2 {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;   
+}
+
