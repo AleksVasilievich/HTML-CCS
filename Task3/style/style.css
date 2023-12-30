@@ -1,0 +1,10 @@
+.background,
+.background * {
+  box-sizing: border-box;
+}
+.background {
+  background: #ffffff;
+  width: 1920px;
+  height: 700px;
+  position: relative;
+}
