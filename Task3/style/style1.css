@@ -77,5 +77,8 @@ html {
     justify-content: center;
     gap: 2em;
     align-items: center;
+}
 
+.home__link_menu {
+    color: #F25822;
 }

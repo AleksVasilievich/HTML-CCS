@@ -1,0 +1,161 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  width: 100%;
+  height: 100%;
+}
+
+.box1 {
+    width: 1920px;
+    height: 700px;
+}
+
+.box1 .rectangle1 {
+    position: fixed;
+    width: 1920px;
+    height: 700px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+}
+
+.box2 {
+    width: 1920px;
+    height: 243px;
+}
+
+.box2 .rectangle {
+    position: fixed;
+    width: 1920px;
+    height: 243px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+}
+
+.box3 {
+    width: 1319px;
+    height: 928px;
+}
+
+.box3 .rectangle {
+    position: fixed;
+    width: 1319px;
+    height: 928px;
+    top: 0;
+    left: 0;
+    border: 1px solid;
+    border-color: #000000;
+}
+
+.box3_1 {
+    width: 1289px;
+    height: 114px;
+}
+
+.box3_1 .rectangle {
+    position: fixed;
+    width: 1289px;
+    height: 114px;
+    top: 0;
+    left: 0;
+    border: 1px solid;
+    border-color: #004fe8;
+}
+
+.box3_2 {
+    width: 1274px;
+    height: 536px;
+}
+
+.box3_2 .rectangle {
+    position: fixed;
+    width: 1274px;
+    height: 536px;
+    top: 0;
+    left: 0;
+    border: 1px solid;
+    border-color: #e89c07;
+}
+
+.box3_3 {
+    width: 1240px;
+    height: 158px;
+}
+
+.box3_3 .rectangle {
+    position: fixed;
+    width: 1240px;
+    height: 158px;
+    top: 0;
+    left: 0;
+    border: 1px solid;
+    border-color: #19fafa;
+}
+
+.box3_2_1 {
+    width: 589px;
+    height: 494px;
+}
+
+.box3_2_1 .rectangle {
+    position: fixed;
+    width: 589px;
+    height: 494px;
+    top: 0;
+    left: 0;
+    border: 1px solid;
+    border-color: #bd0dfa;
+}
+
+.box3_2_2_1 {
+    width: 611px;
+    height: 373px;
+}
+
+.box3_2_2_1 .rectangle {
+    position: fixed;
+    width: 611px;
+    height: 373px;
+    top: 0;
+    left: 0;
+}
+
+.box3_2_2-imege {
+    width: 545px;
+    height: 375px;
+}
+
+.box3_2_2-imege .pngfind {
+    position: fixed;
+    width: 545px;
+    height: 373px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
+
+.box3_3 {
+    width: 1240px;
+    height: 158px;
+}
+
+.box3_3 .rectangle3_3 {
+    position: fixed;
+    width: 1240px;
+    height: 158px;
+    top: 0;
+    left: 0;
+    border: 1px solid;
+    border-color: #19fafa;
+}
+
+
+
+
+
+
+
