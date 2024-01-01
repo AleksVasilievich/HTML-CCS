@@ -41,9 +41,37 @@ html {
     display: flex;
     justify-content: flex-start;
     flex-direction: row;
-    align-items: center;
-   
+    align-items: center; 
 }
+
+.label {
+    width: 88px;
+    height: 30px;
+}
+
+.label .grow-be {
+    display: inline-flex;
+    /* top: 0; */
+    /* left: 0; */
+    font-family: "Gilroy-Bold-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+.label .text-wrapper {
+    color: #000000;
+}
+
+.label .span {
+    color: #f25822;
+}
+
+
 .nav__menu_menu {
     display: flex;
     justify-content: center;
