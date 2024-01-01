@@ -97,8 +97,22 @@ html {
     height: 193px;
     top: 0;
     left: 0;
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: flex-start;
   }
   
+ 
+
+.center .text2 {
+  display: flex;
+  width: 464px;
+  height: 43px;
+  top: 0;
+  left: 0;
+}
+
 
 .center .imeges {
   display: flex;
