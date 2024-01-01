@@ -3,10 +3,6 @@
   padding: 0;
 }
 
-/* .center {
-  margin-right: calc(50% - 600px);
-  margin-left: calc(50% - 600px);
-} */
 
 html {
   width: 100%;
@@ -82,3 +78,25 @@ html {
 .home__link_menu {
     color: #F25822;
 }
+
+
+.center {
+  width: 1274px;
+  height: 536px;
+}
+
+.center .imeges {
+  /* position: fixed; */
+  display: flex;
+  width: 1274px;
+  height: 536px;
+  top: 0;
+  left: 0;
+  border: 1px solid;
+  border-color: #e89c07;
+  flex-direction: row-reverse;
+  justify-content: space-around;
+}
+
+}
+

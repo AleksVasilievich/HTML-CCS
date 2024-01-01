@@ -8,7 +8,7 @@ html {
   height: 100%;
 }
 
-.box1 {
+/* .box1 {
     width: 1920px;
     height: 700px;
 }
@@ -27,22 +27,22 @@ html {
     height: 243px;
 }
 
-.box2 .rectangle {
+.box2 .rectangle2 {
     position: fixed;
     width: 1920px;
     height: 243px;
     top: 0;
     left: 0;
     background-color: #ffffff;
-}
+}  */
 
 .box3 {
     width: 1319px;
     height: 928px;
 }
 
-.box3 .rectangle {
-    position: fixed;
+.box3 .rectangle3 {
+    /* position: fixed; */
     width: 1319px;
     height: 928px;
     top: 0;
@@ -56,8 +56,8 @@ html {
     height: 114px;
 }
 
-.box3_1 .rectangle {
-    position: fixed;
+.box3_1 .rectangle3_1 {
+    /* position: fixed; */
     width: 1289px;
     height: 114px;
     top: 0;
@@ -66,13 +66,58 @@ html {
     border-color: #004fe8;
 }
 
+.nav__menu_img {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    align-items: center; 
+}
+
+.label {
+    width: 88px;
+    height: 30px;
+}
+
+.label .grow-be {
+    display: inline-flex;
+    /* top: 0; */
+    /* left: 0; */
+    font-family: "Gilroy-Bold-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+.label .text-wrapper {
+    color: #000000;
+}
+
+.label .span {
+    color: #f25822;
+}
+
+.nav__menu_menu {
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    align-items: center;
+}
+
+.home__link_menu {
+    color: #F25822;
+}
+
 .box3_2 {
     width: 1274px;
     height: 536px;
 }
 
-.box3_2 .rectangle {
-    position: fixed;
+.box3_2 .rectangle3_2 {
+    /* position: fixed; */
     width: 1274px;
     height: 536px;
     top: 0;
@@ -86,8 +131,8 @@ html {
     height: 158px;
 }
 
-.box3_3 .rectangle {
-    position: fixed;
+.box3_3 .rectangle3_3 {
+    /* position: fixed; */
     width: 1240px;
     height: 158px;
     top: 0;
@@ -101,8 +146,8 @@ html {
     height: 494px;
 }
 
-.box3_2_1 .rectangle {
-    position: fixed;
+.box3_2_1 .rectangle3_2_1 {
+    /* position: fixed; */
     width: 589px;
     height: 494px;
     top: 0;
@@ -116,8 +161,8 @@ html {
     height: 373px;
 }
 
-.box3_2_2_1 .rectangle {
-    position: fixed;
+.box3_2_2_1 .rectangle3_2_2_1 {
+    /* position: fixed; */
     width: 611px;
     height: 373px;
     top: 0;
@@ -130,7 +175,7 @@ html {
 }
 
 .box3_2_2-imege .pngfind {
-    position: fixed;
+    /* position: fixed; */
     width: 545px;
     height: 373px;
     top: 0;
@@ -144,14 +189,14 @@ html {
 }
 
 .box3_3 .rectangle3_3 {
-    position: fixed;
+    /* position: fixed; */
     width: 1240px;
     height: 158px;
     top: 0;
     left: 0;
     border: 1px solid;
     border-color: #19fafa;
-}
+} 
 
 
 
