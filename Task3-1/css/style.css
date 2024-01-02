@@ -44,10 +44,27 @@
     font: 400 24px Gilroy-Bold, sans-serif;
   }
   .div-7 {
+    display: flex;
     color: #000;
     align-self: center;
     flex-grow: 1;
     flex-basis: auto;
     margin: auto 0;
     font: 400 14px Gilroy-Medium, sans-serif;
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
   }
+  .home {
+    color: #f25822;
+    font-family: "GilroySemiBold-☞", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+  }
+  .home-and {
+    color: #000000;
+    font-family: "GilroyMedium-☞", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+  } 
