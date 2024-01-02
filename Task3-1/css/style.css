@@ -11,3 +11,43 @@
     align-items: center;
     padding: 45px 60px;
   } 
+  .div-3 {
+    display: flex;
+    margin-bottom: 80px;
+    width: 1172px;
+    max-width: 100%;
+    flex-direction: column;
+  }
+  .div-4 {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  .div-5 {
+    display: flex;
+    justify-content: space-between;
+    gap: 14px;
+  }
+ .img {
+    aspect-ratio: 0.88;
+    object-fit: contain;
+    object-position: center;
+    width: 35px;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .div-6 {
+    color: #f25822;
+    align-self: center;
+    margin: auto 0;
+    font: 400 24px Gilroy-Bold, sans-serif;
+  }
+  .div-7 {
+    color: #000;
+    align-self: center;
+    flex-grow: 1;
+    flex-basis: auto;
+    margin: auto 0;
+    font: 400 14px Gilroy-Medium, sans-serif;
+  }
